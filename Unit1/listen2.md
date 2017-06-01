@@ -71,7 +71,7 @@
      <tr>
      	<td>否定</td>
      	<td align="center">～では　ありませんでした</td>
-     	<td align="center">おとといは　月曜日では　ありませんでした</td>
+     	<td align="center">おとといは　月曜日では　ありませんでした。</td>
      </tr>
      </tbody>
      </table>
