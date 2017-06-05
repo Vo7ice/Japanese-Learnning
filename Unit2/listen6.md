@@ -17,33 +17,35 @@
     - 注意:助词「に」与包含移动意义的动词一起使用,表示行为的目的地;助词「へ」后接包含移动意义的动词,侧重于动作的方向.
   2. 第二种用法
     - 说明:助词「に」还可以表示行为的目的.前面长街表示行为目的的名词或动词的「ます」形去掉「ます」后的形式.后面接「行きます、帰ります、来ます、戻ります」等表示移动的动词,构成「～へ　名词/动词~~ます~~形＋に　行きます/帰ります/来ます/戻ります」的句型.句型中助词「へ」表示移动的方向,助词「に」表示行为的目的.
-    <table>
-     <thead>
-     <tr>
-     	<th align="center"></th>
-     	<th align="center">例句</th>
-     </tr>
-     </thead>
-     <tbody>
-     <tr>
-     	<td align="center" rowspan="2">名词+に</td>
-     	<td align="center">公園へ　行きます(行为)＋花見(目的)。</td>
-     </tr>
-     <tr>
-     	<td align="center">＝＞　公園へ　花見に　行きます。</td>
-     </tr>
-     <tr>
-     	<td align="center" rowspan="2">动词+に</td>
-     	<td align="center">池袋へ　行きます(行为)＋映画を　見ます(目的)。</td>
-     </tr>
-     <tr>
-     	<td align="center">＝＞　池袋へ　映画を　見に　行きます。</td>
-     </tr>
-     </tbody>
-    </table>
     - 例句:
        1. デパートへ　買い物に　行きます。
        2. A：体育館へ　何を　しに　行きますか。　B：テニスを　しに　行きます。
+    
+<table>
+       <thead>
+         <tr>
+          <th align="center"></th>
+          <th align="center">例句</th>
+         </tr>
+       </thead>
+       <tbody>
+         <tr>
+            <td align="center" rowspan="2">名词+に</td>
+            <td align="center">公園へ　行きます(行为)＋花見(目的)。</td>
+         </tr>
+         <tr>
+            <td align="center">＝＞　公園へ　花見に　行きます。</td>
+         </tr>
+         <tr>
+            <td align="center" rowspan="2">动词+に</td>
+            <td align="center">池袋へ　行きます(行为)＋映画を　見ます(目的)。</td>
+         </tr>
+         <tr>
+            <td align="center">＝＞　池袋へ　映画を　見に　行きます。</td>
+         </tr>
+       </tbody>
+</table>
+
 
 # 3. で(手段,方式等)
   - 说明:助词「で」除了表示动作进行的场所之外,还可以表示手段,方式,工具,材料等.
