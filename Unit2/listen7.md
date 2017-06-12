@@ -16,28 +16,28 @@
          <tr>
             <td align="center" rowspan="2">名词+に</td>
             <td align="center">おいしい</td>
-　　　　　　　<td align="center">おいし</td>
-　　　　　　　<td align="center">い</td>
-　　　　　　　<td align="center">おいしいです</td>
+            <td align="center">おいし</td>
+            <td align="center">い</td>
+            <td align="center">おいしいです</td>
          </tr>
          <tr>
             <td align="center">高い</td>
-　　　　　　　<td align="center">高</td>
-　　　　　　　<td align="center">い</td>
-　　　　　　　<td align="center">高いです</td>
+            <td align="center">高</td>
+            <td align="center">い</td>
+            <td align="center">高いです</td>
          </tr>
          <tr>
             <td align="center" rowspan="2">动词+に</td>
             <td align="center">静かだ</td>
-　　　　　　　<td align="center">静か</td>
-　　　　　　　<td align="center">だ</td>
-　　　　　　　<td align="center">静かです</td>
+            <td align="center">静か</td>
+            <td align="center">だ</td>
+            <td align="center">静かです</td>
          </tr>
          <tr>
             <td align="center">きれいだ</td>
-　　　　　　　<td align="center">きれい</td>
-　　　　　　　<td align="center">だ</td>
-　　　　　　　<td align="center">きれいです</td>
+            <td align="center">きれい</td>
+            <td align="center">だ</td>
+            <td align="center">きれいです</td>
          </tr>
        </tbody>
     </table>
@@ -49,5 +49,90 @@
 
 # 2. 「名」は　「形容词」く　ないです/「形容词」く　ありません　「名」は　「形容动词」では　ないです/「形容动词」では　ありません
   - 说明:
+    1. 形容词的否定形式是将词尾的「い」变成「く」,再加上「ないです」或「ありません」
+    2. 形容动词的否定形式是在词干后直接加「では　ないです」或「では　ありません」.
+    <table>
+       <thead>
+         <tr>
+          <th align="center">类别</th>
+          <th align="center">词例</th>
+          <th align="center">词干</th>
+          <th align="center">否定形式</th>
+         </tr>
+       </thead>
+       <tbody>
+         <tr>
+            <td align="center" rowspan="2">名词+に</td>
+            <td align="center">おいしい</td>
+            <td align="center">おいし</td>
+            <td align="center">おいしく　ないです/おいしく　ありません</td>
+         </tr>
+         <tr>
+            <td align="center">高い</td>
+            <td align="center">高</td>
+            <td align="center">高く　ないです/高く　ありません</td>
+         </tr>
+         <tr>
+            <td align="center" rowspan="2">动词+に</td>
+            <td align="center">静かだ</td>
+            <td align="center">静か</td>
+            <td align="center">静か　ないです/　静か　ありません</td>
+         </tr>
+         <tr>
+            <td align="center">きれいだ</td>
+            <td align="center">きれい</td>
+            <td align="center">きれい　ないです/きれい　ありません</td>
+         </tr>
+       </tbody>
+    </table>
   - 例句:
+     1. 日本語の　勉強は　つらく　ないです。
+     2. あの　店の　料理は　高く　ありません。
+     3. 浅草は　あまり　賑やか。
+     4. 田中さんは　あまり　親切では　ありません。
   - 注意:
+     - 形容词「いい」是「よい」的口语形式,其变化与「よい」相同.
+     - 「いい」和「よい」的否定形式是「よく　ないです」或「よく　ありません」
+
+# 3.　「名1」は「形容词/形容动词」＋「名2」です
+  - 说明:
+     - 形容词可以直接修饰名词
+     - 形容动词修饰名词时,词尾的「だ」要变成「な」,再加名词
+  - 例句:
+     1. 今日は　涼しい　一日です。
+     2. A：東京は　どんな　町ですか。　B：東京は　便利な　町です。
+  - 注意:对事物的性质,状态或人物(动物)的情感,属性等提问时,可以用「どんな」
+
+# 4. まう　「动」ました
+  - 说明:副词「もう」意为"已经......",常以「まう＋动ました」的形式表示已经发生的事情或过去的状态.
+  - 例句:
+     1. 昼ご飯は　もう　食べました。
+     2. 手紙は　もう　読みました。
+
+# 5. ～が、～(转折)
+  - 说明:「が」连接两个句子,表示转折
+  - 例句:
+     1. 今の　仕事は　忙しいですが、とでも　楽しいです。
+     2. 東京の　生活は　便利ですが、物価が　高いです。
+  - 注意:「が」连接两个句子,不仅可以表示转折,还可以表示顺接.
+ 
+# 6. 「疑问词」＋か（不定指代）
+  - 说明:助词「か」接在「誰/どこ/何」等疑问词后面,表示不确定.
+  - 例句:
+     1. 教室に　誰か　いますか。
+     2. どこか　遊びに　行きませんか。
+     3. スーパーでは　何か　買いましたか。
+  - 注意:
+     - 「疑问词＋か」表示不确定有没有人,什么地方,什么东西等的时候用.
+     - 「疑问词＋が」表示要问具体的人,具体的地方,具体的东西等.
+
+# 7. に(动作的对象,接受者以及动作的着落点)
+  - 说明:助词「に」除了表示时间,动作的目的地,行为的目的,分配的比率,基准,动作发生的频率之外,还可以表示动作的对象,接受者以及动作的着落点等.
+  - 例句:
+     1. 上司に　電話を　しました。
+     2. 王さんは　会いました。
+     3. バスは　乗ります。
+     4. 財布に　入れます。
+  - 注意:
+     - 「疑问词＋か」表示不确定有没有人,什么地方,什么东西等的时候用.
+     - 「疑问词＋が」表示要问具体的人,具体的地方,具体的东西等.
