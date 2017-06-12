@@ -14,7 +14,7 @@
        </thead>
        <tbody>
          <tr>
-            <td align="center" rowspan="2">名词+に</td>
+            <td align="center" rowspan="2">形容词</td>
             <td align="center">おいしい</td>
             <td align="center">おいし</td>
             <td align="center">い</td>
@@ -27,7 +27,7 @@
             <td align="center">高いです</td>
          </tr>
          <tr>
-            <td align="center" rowspan="2">动词+に</td>
+            <td align="center" rowspan="2">形容动词</td>
             <td align="center">静かだ</td>
             <td align="center">静か</td>
             <td align="center">だ</td>
@@ -62,7 +62,7 @@
        </thead>
        <tbody>
          <tr>
-            <td align="center" rowspan="2">名词+に</td>
+            <td align="center" rowspan="2">形容词</td>
             <td align="center">おいしい</td>
             <td align="center">おいし</td>
             <td align="center">おいしく　ないです/おいしく　ありません</td>
@@ -73,7 +73,7 @@
             <td align="center">高く　ないです/高く　ありません</td>
          </tr>
          <tr>
-            <td align="center" rowspan="2">动词+に</td>
+            <td align="center" rowspan="2">形容动词</td>
             <td align="center">静かだ</td>
             <td align="center">静か</td>
             <td align="center">静か　ないです/　静か　ありません</td>
