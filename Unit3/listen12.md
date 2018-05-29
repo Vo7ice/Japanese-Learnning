@@ -39,8 +39,40 @@
 # 5. ～ので
   - 接续:
      - 动基本形/形容词基本形＋ので
-     - 形容动词词干/名＋
-  - 说明:表示动作完成和结束,在句子中常以过去时出现.
+     - 形容动词词干/名＋な＋ので
+  - 说明:
+     - 「ので」表示原因,理由,意为"因为.......".
+     - 「ので」前面多事叙述客观事实,因此后巷不用命令,祈使等表达方式.
+<table>
+       <thead>
+         <tr>
+          <th align="center">分类</th>
+          <th align="center">词例</th>
+          <th align="center">连接方式</th>
+          <th align="center">＋ので</th>
+         </tr>
+       </thead>
+       <tbody>
+         <tr>
+            <td align="center" >动词</td>
+            <td align="center">行く</td>
+            <td align="center">行く/行きます</td>
+            <td align="center">行くので/行きますので</td>
+         </tr>
+         <tr>
+            <td align="center" >形容词</td>
+            <td align="center">高い</td>
+            <td align="center">高い</td>
+            <td align="center">高いので</td>
+         </tr>
+         <tr>
+            <td align="center" >形容动词</td>
+            <td align="center">便利だ</td>
+            <td align="center">便利＋な</td>
+            <td align="center">便利なので</td>
+         </tr>
+       </tbody>
+    </table>
   - 例句:
      - 部屋が　暗く　なって　しまいました。
      - お金を　全部　使って　しまいました。
